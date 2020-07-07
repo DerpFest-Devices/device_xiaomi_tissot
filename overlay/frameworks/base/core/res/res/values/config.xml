@@ -20,4 +20,7 @@
    <!-- Enable pocket mode -->
    <bool name="config_proxiSensorWakupCheck">true</bool> 
 
+   <!-- Is the MultiColor LED Is Supported -->
+   <bool name="config_multiColorBatteryLed">false</bool>      
+
 </resources>
