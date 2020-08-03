@@ -66,7 +66,8 @@ PRODUCT_COPY_FILES += \
 # Camera
 PRODUCT_PACKAGES += \
     camera.msm8953 \
-    libmm-qcamera
+    libmm-qcamera \
+    Snap
 
 # ConsumerIr
 PRODUCT_PACKAGES += \
@@ -112,6 +113,3 @@ $(call inherit-product, build/target/product/verity.mk)
 PRODUCT_PACKAGES += \
     Via
 
-# GCam Go
-PRODUCT_PACKAGES += \
-    GCam
