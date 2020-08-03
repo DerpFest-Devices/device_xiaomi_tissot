@@ -16,8 +16,8 @@
 -->
 <resources>
  <!-- About - Device specific links -->
-<string name="about_device_fw_ver" translatable="false">V10.0.22.0PDHMIXM_MODEM.zip</string> <!-- Firmware version -->
-<string name="about_device_fw_link" translatable="false">https://drive.google.com/file/d/18k75eDq_WIx-G3ux0hQyjvPLdrP0X88h/view?usp=sharing</string> <!-- Firmware link -->
+<string name="about_device_fw_ver" translatable="false">V10.0.23.0PDHMIXM_MODEM.zip</string> <!-- Firmware version -->
+<string name="about_device_fw_link" translatable="false">https://drive.google.com/file/d/1IuAKeoCrgc8Sp6HtlR52z0rrYE6lxHs2/view?usp=sharing</string> <!-- Firmware link -->
 <string name="maintainer_name">Murtaza Piplod(mtpiplod)</string>
 <string name="maintainer_telegram">https://t.me/aosip_tissot</string>
 </resources>
