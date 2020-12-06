@@ -12,6 +12,10 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_tissot.mk
+    $(LOCAL_DIR)/derp_tissot.mk
+
+COMMON_LUNCH_CHOICES := \
+    derp_tissot-user \
+    derp_tissot-userdebug \
+    derp_tissot-eng \
