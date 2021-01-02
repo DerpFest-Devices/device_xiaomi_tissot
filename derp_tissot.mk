@@ -32,7 +32,7 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Mi A1
 PRODUCT_MANUFACTURER := Xiaomi
 TARGET_VENDOR := Xiaomi
-DERP_BUILTYPE := Official
+DERP_BUILDTYPE := Official
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Build fingerprint
