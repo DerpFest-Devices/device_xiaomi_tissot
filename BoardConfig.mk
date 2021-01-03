@@ -53,3 +53,6 @@ VENDOR_SECURITY_PATCH := 2020-05-05
 
 # Inherit from the proprietary version
 -include vendor/xiaomi/tissot/BoardConfigVendor.mk
+
+# APEX
+DEXPREOPT_GENERATE_APEX_IMAGE := true
