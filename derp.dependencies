@@ -4,21 +4,21 @@
     "target_path": "device/xiaomi/msm8953-common",
     "branch": "11",
     "remote": "github"
-  }
+  },
 
   {
     "repository": "DerpFest-Devices/kernel_xiaomi_msm8953",
     "target_path": "kernel/xiaomi/msm8953",
     "branch": "11",
     "remote": "github" 
-  }
+  },
 
   {
     "repository": "DerpFest-Devices/device_xiaomi_tissot",
     "target_path": "device/xiaomi/tissot",
     "branch": "11",
     "remote": "github"
-  }
+  },
     {
     "repository": "DerpFest-Devices/vendor_xiaomi_tissot",
     "target_path": "vendor/xiaomi",

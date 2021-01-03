@@ -51,3 +51,6 @@ BOARD_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy
 
 # Inherit from the proprietary version
 -include vendor/xiaomi/tissot/BoardConfigVendor.mk
+
+# APEX
+DEXPREOPT_GENERATE_APEX_IMAGE := true
