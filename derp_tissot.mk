@@ -35,6 +35,12 @@ TARGET_VENDOR := Xiaomi
 DERP_BUILDTYPE := Official
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
+# Disable some debuggings
+PRODUCT_ART_TARGET_INCLUDE_DEBUG_BUILD := false
+PRODUCT_MINIMIZE_JAVA_DEBUG_INFO := true
+PRODUCT_PACKAGES_DEBUG := false
+PRODUCT_PACKAGES_DEBUG_ASAN := false
+
 # Build fingerprint
 BUILD_FINGERPRINT := xiaomi/tissot/tissot_sprout:8.0.0/OPR1.170623.026/8.1.10:user/release-keys
 BUILD_DESC := tissot-user 8.0.0 OPR1.170623.026 8.1.10 release-keys
